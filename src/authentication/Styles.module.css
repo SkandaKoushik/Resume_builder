@@ -1,0 +1,49 @@
+.main {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+  }
+  
+  .textBox {
+    padding: 12px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    width: 300px;
+    border: 2px solid #D6EAF8;
+  }
+  
+  .btn {
+    padding: 12px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    border: none;
+    color: white;
+    background-color: #239ce2;
+    justify-content: center;
+  }
+  
+  .google {
+    padding: 12px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    border: none;
+    color: black;
+    background-color: #D6EAF8;
+    justify-content: center;
+  }
+  
+  .main div {
+    margin-top: 10px;
+  }
+  
